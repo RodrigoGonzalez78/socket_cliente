@@ -1,6 +1,6 @@
 # socket_cliente 
 ## Descargar demo
-[Aplicaion](/compilado/)
+[Aplicacion](/compilado/)
 
 ## Getting Started
 
