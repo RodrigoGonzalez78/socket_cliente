@@ -1,8 +1,6 @@
 # socket_cliente 
 ## Descargar demo
-
-[Descargar](/build/app/outputs/flutter-apk/app-release.apk)
-A new Flutter project.
+[Aplicaion](/compilado/)
 
 ## Getting Started
 
